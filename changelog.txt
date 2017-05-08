@@ -1,0 +1,8 @@
+Jolly Jumper Checker change log
+
+2017-04-21
+	- Finished main components of program (main, abs).
+	
+2017-05-08
+	- Added comments, readme, changelog.
+	- Added check to make sure the "diffs" vector begins with "1."
