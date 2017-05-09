@@ -1,0 +1,4 @@
+Jolly Jumper Checker to do list
+
+2017-05-08
+	- Will add functionality for program to determine size of input sequence without it being indicated at the start of the input sequence.
