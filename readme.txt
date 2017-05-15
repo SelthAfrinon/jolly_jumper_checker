@@ -1,6 +1,8 @@
 Program: Jolly Jumper Checker
 Author: Martin Rivera
 Date: 2017-05-08
+Readme Last Revised: 2017-05-15
+Project Status: On hold
 
 Description: Checks if an input sequence of numbers is a "Jolly Jumper" sequence. A "Jolly Jumper" sequence is a sequence where the difference between subsequent numbers form a set which contains all numbers from one to the size of the input sequence. 
 

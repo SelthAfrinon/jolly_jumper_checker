@@ -6,3 +6,6 @@ Jolly Jumper Checker change log
 2017-05-08
 	- Added comments, readme, changelog.
 	- Added check to make sure the "diffs" vector begins with "1."
+	
+23017-05-15
+	- Added project status indicator and last revised date to readme.
